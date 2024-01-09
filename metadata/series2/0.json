@@ -1,1 +1,5 @@
-{"description": "Test Series2","image": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/10.jpg","name": "fastcampus"}
+{
+  "description": "Test Series2",
+  "image": "https://raw.githubusercontent.com/choyeah/ERC1155LearningKit/main/metadata/tarot_card_nft/10.jpg",
+  "name": "fastcampus"
+}

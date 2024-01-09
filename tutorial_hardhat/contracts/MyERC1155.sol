@@ -14,7 +14,7 @@ contract MyERC1155 is ERC1155PresetMinterPauser {
 
     // Optional base URI
     string private _baseURI =
-        "https://raw.githubusercontent.com/choyeah/ERC1155LearningKit/metadata/";
+        "https://raw.githubusercontent.com/choyeah/ERC1155LearningKit/main/metadata/";
 
     // Optional mapping for token URIs
     mapping(uint256 => string) private _tokenURIs;

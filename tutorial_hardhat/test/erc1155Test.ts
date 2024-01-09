@@ -8,7 +8,7 @@ import { Contract } from "ethers";
 import { ethers } from "hardhat";
 
 // chai.use(solidity);
-// const tokenURI = 'https://raw.githubusercontent.com/choyeah/ERC1155LearningKit/metadata/';
+// const tokenURI = 'https://raw.githubusercontent.com/choyeah/ERC1155LearningKit/main/metadata/';
 
 describe("Start Example ERC1155 test", async () => {
   // contracts

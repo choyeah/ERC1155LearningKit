@@ -16,6 +16,10 @@ const config: HardhatUserConfig = {
       url: process.env.RPC_URL,
       accounts: [process.env.PRIVATE_KEY!, process.env.TEST_PRIVATE_KEY!],
     },
+    mumbai: {
+      url: process.env.RPC_URL_MUMBAI,
+      accounts: [process.env.PRIVATE_KEY!, process.env.TEST_PRIVATE_KEY!],
+    },
     // matic: {
     //   url: process.env.RPC_URL_MATIC,
     //   accounts: [process.env.PRIVATE_KEY!, process.env.TEST_PRIVATE_KEY!],
